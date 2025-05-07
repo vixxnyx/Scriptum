@@ -13,7 +13,7 @@ This project is build as so:
 |:--------|:--------:|:---------:|
 | RUST    |SvelteKit | Tauri     |
 
-* Installation
+# Installation
 Below is how to install of the tools and dependencies. 
 * Rust
 * Node.js
