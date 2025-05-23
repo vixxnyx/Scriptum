@@ -44,6 +44,7 @@ declare module '$env/static/private' {
 	export const npm_config_local_prefix: string;
 	export const npm_config_userconfig: string;
 	export const TAURI_ENV_TARGET_TRIPLE: string;
+	export const npm_config_engine_strict: string;
 	export const COLOR: string;
 	export const WSL_DISTRO_NAME: string;
 	export const npm_config_metrics_registry: string;
@@ -142,6 +143,7 @@ declare module '$env/dynamic/private' {
 		npm_config_local_prefix: string;
 		npm_config_userconfig: string;
 		TAURI_ENV_TARGET_TRIPLE: string;
+		npm_config_engine_strict: string;
 		COLOR: string;
 		WSL_DISTRO_NAME: string;
 		npm_config_metrics_registry: string;
